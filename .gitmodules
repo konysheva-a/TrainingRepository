@@ -1,0 +1,4 @@
+[submodule "SubmoduleRepository"]
+	path = SubmoduleRepository
+	url = git@github.com:konysheva-a/SubmoduleRepository.git
+	branch = master
